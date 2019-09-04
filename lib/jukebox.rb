@@ -21,6 +21,6 @@ end
 
 def list(songs)
   songs.each do |song|
-    puts "1." + song
+    puts "1. " + song
   end
 end
