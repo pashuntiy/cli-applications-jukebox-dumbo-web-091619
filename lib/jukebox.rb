@@ -11,3 +11,5 @@ songs = [
 ]
 
 
+def help
+  puts ""
